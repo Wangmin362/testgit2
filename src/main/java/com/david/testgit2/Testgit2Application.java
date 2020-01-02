@@ -10,4 +10,7 @@ public class Testgit2Application {
         SpringApplication.run(Testgit2Application.class, args);
     }
 
+    public void testgithubs(){
+        System.out.println("sdfsdfsdf");
+    }
 }
