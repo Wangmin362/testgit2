@@ -13,4 +13,9 @@ public class Testgit2Application {
     public void testgithubs(){
         System.out.println("sdfsdfsdf");
     }
+
+    public void testgithubxxxs(){
+        System.out.println("sdfsdfsdfsdf");
+    }
+
 }
